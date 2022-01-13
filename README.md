@@ -18,3 +18,6 @@ This is an opinionated boilerplate that helps you to get a quick start.
 * install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 * in local project directory run `yarn` to load modules.
 * run `npm run dev` to start the app.
+
+## Working demo
+You can see this app in action at [Vercel hosting](https://enterprise-react-2022.vercel.app/)
