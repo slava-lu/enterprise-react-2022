@@ -1,5 +1,6 @@
 # Enterprise React tech stack in 2022
-This is the React tech stack you need to build a big scalable reliable and nice looking app in 2022.
+This is the React tech stack you need to build a big scalable reliable and nice looking app in 2022. 
+
 
 ## Motivation
 React ecosystem is changing rapidly as well as the whole frontend development area. It is not easy to compile a modern tech stack to build professional enterprise-class web apps.
@@ -13,6 +14,10 @@ This is an opinionated boilerplate that helps you to get a quick start.
 * Translation and i18n [next-translate](https://github.com/vinissimus/next-translate).
 * Form library [React Hook Form](https://react-hook-form.com/).
 * UI design system [Chakra](https://chakra-ui.com/).
+
+
+## Tech Stack description
+There is an [article](https://medium.com/p/3126ed43ba58) describing the main ideas behind this tech stack. 
 
 ## Installation and usage
 * install [yarn](https://yarnpkg.com/lang/en/docs/install/).
